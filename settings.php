@@ -1,0 +1,1 @@
+wfLoadSkin( 'Timeless' );
